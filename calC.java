@@ -4,6 +4,8 @@ class Calc {
   }
   
   public static void main(String[] args) {
-    System.out.println(add(10,20));
+    int a=10;
+    int b=20;
+    System.out.println(add(a,b));
   }
 }
